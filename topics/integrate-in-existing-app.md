@@ -1,10 +1,13 @@
 [//]: # (title: Integrate KMM into an existing application)
 [//]: # (auxiliary-id: Integrate_KMM_into_an_existing_application)
 
-Here you can learn how to integrate Kotlin Multiplatform Mobile (KMM) into an existing Android application and make it multiplatform so that it works on both Android and iOS. 
+Kotlin is one of the best app languages and it can be used both for mobile development and cross platform app development.
+ 
+Here you can learn how to integrate Kotlin Multiplatform Mobile (KMM) into an existing Android application and make it cross platform so that it works on both Android and iOS. 
+
 You will understand what kind of code is good to share and how to use shared code in your existing application.
 
-Sharing code saves you time and effort on writing code and testing it for Android and iOS as you only need to do it once, in the one place.
+Cross platfrom mobile development saves you time and effort on writing code and testing it for Android and iOS as you only need to do it once, in the one place.
 
 Before you begin, learn how to [create and configure a KMM application](create-first-app.md).
 
